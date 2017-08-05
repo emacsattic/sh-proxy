@@ -1,5 +1,5 @@
 ;; sh-proxy.el -- experiment with elisp proxies for shell commands
-
+;; License: GPL-3+
 ;;; Commentary:
 ;; 
 ;; (sh-proxy-create "df") defines a function sh/df
